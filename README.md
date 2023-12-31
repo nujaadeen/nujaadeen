@@ -8,13 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Face Mask detection project**
+- 🔭 I’m currently working on **Deep Geometric Framework to Predict Antibody-Antigen Binding Affinity Project**
 
-- 🌱 I’m currently learning **Tensor Flow, CSS and HTML**
+- 🌱 I’m currently learning **Java script and It's Frameworks**
 
-- 👯 I’m looking to collaborate on **AI related projects**
-
-- 🤝 I’m looking for help with **some cool AI Projects**
+- 👯 I’m looking to collaborate on **Software and AI related projects**
 
 - 💬 Ask me about **Programming and Digital Hardware related Stuffs**
 
