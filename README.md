@@ -10,7 +10,7 @@
 ### 💼 About Me
 
 - 🔭 Currently building: **ERP System** — scalable microservices with Java Spring Boot, Spring Cloud & event-driven integrations
-- 💻 Working as **Software Engineer (Backend)** at **Peg b Technology - FZE**, Dubai — Java, Spring Boot, Elixir, Apache Kafka
+- 💻 Working as **Software Engineer (Backend)** at **Peg b Technology - FZE**, Dubai
 - ☸️ Pursuing **Certified Kubernetes Administrator (CKA)** — Linux Foundation
 - 🎓 **M.Sc in Computer Science** (Cloud Computing) — University of Moratuwa *(in progress)*
 - 🤝 Open to collaborating on **Backend Engineering**, **Distributed Systems**, and **AI/ML** projects
