@@ -87,8 +87,8 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<!-- <p>
   <img align="left"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nujaadeen&show_icons=true&locale=en&layout=compact"
        alt="Top Languages" />
-</p>
+</p> -->
