@@ -59,7 +59,7 @@ A snapshot of whatever I've been poking at lately (it changes often):
   <a href="mailto:nushad9432@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@nujaadeen" target="_blank">
+  <a href="https://medium.com/@nushad9432" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <a href="https://facebook.com/nujaa.deen" target="_blank">
