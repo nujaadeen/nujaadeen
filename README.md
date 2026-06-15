@@ -1,11 +1,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
-
 <h1 align="center">Hi 👋, I'm Mohamed Nushath</h1>
-<h3 align="center">Software Engineer · Distributed Systems & Concurrency nerd · Perpetual rabbit-hole explorer</h3>
-
+<h3 align="center">Backend Software Engineer · Distributed Systems & Concurrency · Perpetual rabbit-hole explorer</h3>
+ 
 <p align="center">
-I'm the kind of engineer who reads about some new piece of tech at midnight and has a half-broken proof-of-concept by 2am. If it involves things running in parallel, talking over a network, and occasionally racing each other — I'm already interested. New tool, new protocol, new language? It usually ends up as a repo.
+  💳 Payments & fintech @ <b>Pegb Technology</b> &nbsp;·&nbsp; 📍 Dubai, UAE &nbsp;·&nbsp; ☸️ chasing the CKA
 </p>
 
 <p align="center">
@@ -33,6 +32,7 @@ I'm the kind of engineer who reads about some new piece of tech at midnight and 
 - 🧠 I genuinely **geek out over distributed systems & concurrent processing** — consensus, message queues, idempotency, race conditions, the lot.
 - ☸️ Currently deep in the **Kubernetes** rabbit hole, prepping for the **CKA** — nobody asked me to, my role doesn't even require it, I just wanted to understand it properly.
 - 🧪 **`nushadlabs`** is my sandbox — when a technology catches my eye, it becomes a repo before it becomes an opinion.
+- 🧮 Grinding **LeetCode / NeetCode** as a daily habit — keeps the problem-solving muscle from going soft (see [`neetcode-submissions`](https://github.com/nujaadeen/neetcode-submissions)).
 - 🎓 **M.Sc in Computer Science (Cloud Computing)** — University of Moratuwa *(in progress)*
 - 💬 Ask me about **Java/Spring Boot**, **Elixir/Phoenix**, **Kafka**, **distributed transactions**, or anything **Kubernetes**.
 - 📫 Reach me at **nushad9432@gmail.com**
@@ -59,6 +59,9 @@ A snapshot of whatever I've been poking at lately (it changes often):
   <a href="mailto:nushad9432@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
   </a>
+  <a href="https://medium.com/@nujaadeen" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
   <a href="https://facebook.com/nujaa.deen" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
@@ -66,7 +69,6 @@ A snapshot of whatever I've been poking at lately (it changes often):
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
 <br>
 
 ### 🛠️ Languages & Tools
