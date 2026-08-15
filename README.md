@@ -28,7 +28,7 @@
 
 ### 💼 About Me
 
-- 🧩 By day I'm a **Backend Software Engineer at Pegb Technology FZE** (Dubai), building **payment gateways & payment processing systems** — where distributed transactions and concurrency aren't a hobby, they're the whole job.
+- 🧩 By day I'm a **Software Engineer at Pegb Technology FZE** (Dubai), building **payment gateways & payment processing systems** — where distributed transactions and concurrency aren't a hobby, they're the whole job.
 - 🧠 I genuinely **geek out over distributed systems & concurrent processing** — consensus, message queues, idempotency, race conditions, the lot.
 - ☸️ Currently deep in the **Kubernetes** rabbit hole, prepping for the **CKA** — nobody asked me to, my role doesn't even require it, I just wanted to understand it properly.
 - 🧪 **`nushadlabs`** is my sandbox — when a technology catches my eye, it becomes a repo before it becomes an opinion.
